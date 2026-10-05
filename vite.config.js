@@ -1,3 +1,4 @@
 export default {
-    base: '/BabyTimeMapper/',
+    base: '/TM---Jack/
+',
 }

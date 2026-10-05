@@ -3,9 +3,9 @@
 <!--This is an example xml filled with random events, feel free to copy and paste your own events over these ones from the template!-->
 <?xml-model href="events.rnc" type="application/relax-ng-compact-syntax"?>
 <events>
- <track type="1" name="war">
+ <track type="1" name="golf tour">
    <event>
-     <title>Dr. B Graduates College</title>
+     <title>tour begins</title>
      <date type="start">
        <year>1993</year>
        <month>05</month>
