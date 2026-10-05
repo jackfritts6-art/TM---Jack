@@ -1,4 +1,3 @@
 export default {
-    base: '/TM---Jack/'
-',
+    base: '/TM---Jack/',
 }
