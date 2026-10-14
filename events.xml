@@ -7,73 +7,73 @@
    <event>
      <title>tour begins</title>
      <date type="start">
-       <year>1993</year>
-       <month>05</month>
+       <year>2026</year>
+       <month>09</month>
        <era>AD</era>
      </date>
      <date type="end">
-       <year>1995</year>
-       <month>05</month>
+       <year>2026</year>
+       <month>09</month>
        <era>AD</era>
      </date>
-     <description>Dr. B graduates from Washington and Jefferson College, and looks ahead to starting grad school at Penn State.</description>
-     <lat>40.174</lat><!-- POINT THESE to Washington, PA -->
-     <lon>-80.2462</lon>
+     <description>Good Good golf team begins the 50 day 50 states tour in alaska.</description>
+     <lat>61.6478831</lat><!-- POINT THESE to Washington, PA -->
+     <lon>-149.8549618</lon>
    </event>
    <event>
-     <title>Dr. B works on something</title>
+     <title>Good good heads to Washington PA</title>
      <date type="start">
-       <year>1990</year>
-       <month>05</month>
-       <era>AD</era>
+       <year>2026</year>
+       <month>09</month>
+       <era>BC</era>
      </date>
      <date type="end">
-       <year>2005</year>
-       <month>05</month>
+       <year>2026</year>
+       <month>09</month>
        <era>AD</era>
      </date>
-     <description>Dr. B works on something that overlaps in time.</description>
-     <lat>42.174</lat><!-- POINT THESE to Washington, PA -->
-     <lon>-80.2462</lon>
+     <description>Good Good plays at Gold Mountian Golf Club.</description>
+     <lat>47.5183518</lat><!-- POINT THESE to Washington, PA -->
+     <lon>-122.7514127</lon>
      
      
    </event>
    
    
   <event>
-    <title>Julius Caesar invades Britain</title>
+    <title>Good Good team heads to Oregon</title>
     <date type="start">
-      <year>0080</year>
+      <year>2026</year>
       <era>BC</era>
     </date>
     <date type="end">
-      <year>0054</year>
+      <year>2026</year>
       <era>BC</era>
     </date>
-    <description>Julius Caesar led the first Roman expedition to Britain, landing on the Kent coast.</description>
-    <lat>51.1789</lat>
-    <lon>1.1713</lon>
+    <description>Good Good team rates the course 80.6/100.</description>
+    <lat>38.4163062</lat>
+    <lon>-90.9267356</lon>
   </event>
 
   <event>
-    <title>Battle of Actium</title>
+    <title>Good Good team heads to Idaho</title>
     <date type="start">
-      <year>0031</year>
+      <year>2026</year>
       <month>09</month>
-      <era>BC</era>
+      <era>AD</era>
     </date>
     <date type="end">
-    <year>0010</year>
-    <month>07</month>
+    <year>2026</year>
+    <month>09</month>
     <era>BC</era>
     </date>
-    <description>Octavian defeated the combined forces of Mark Antony and Cleopatra, becoming Rome's first emperor.</description>
-    <lat>38.9419</lat>
-    <lon>20.7400</lon>
+    <description>The Good Good golf team plays at  Coeur d'Alene Resort Golf Course rating it a 87.5/100.</description>
+    <lat>47.6667</lat>
+    <lon>-116.7554</lon>
   </event>
   </track>
  
- <track type="2" name="mid">
+ <track type="2" name="date">
   <event>
     <title>Storming of the Bastille</title>
     <date type="start">
@@ -121,12 +121,12 @@
   </event>
  </track>
 
-<track type="3" name="late">
+<track type="3" name="Rating">
   <event>
     <title>Napoleon crowned Emperor</title>
     <date type="start">
-      <year>1804</year>
-      <month>12</month>
+      <year>2026</year>
+      <month>11</month>
       <day>02</day>
       <era>AD</era>
     </date>
